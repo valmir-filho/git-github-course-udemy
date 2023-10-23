@@ -1,0 +1,51 @@
+Git
+
+Git is a distributed version control system that is widely used for managing and tracking changes in software development projects.
+
+Here are some of the most commonly used Git commands:
+
+- git init: initializes a new Git repository in the current directory.
+
+- git clone "repository_url": creates a copy of a remote repository on your local machine.
+
+- git add "file": stages changes for commit. You can also use "git add ." to stage all changes.
+
+- git commit -m "commit message": records the staged changes in the repository with a descriptive message.
+
+- git status: shows the status of your working directory, indicating which files are changed, staged, or untracked.
+
+- git log: displays a history of commits.
+
+- git branch: lists all branches in the repository and indicates the current branch.
+
+- git checkout "branch_name": switches to the specified branch.
+
+- git branch "new_branch_name": creates a new branch.
+
+- git merge "branch_name": merges changes from the specified branch into the current branch.
+
+- git pull: fetches changes from a remote repository and merges them into the current branch.
+
+- git push: pushes your local changes to a remote repository.
+
+- git remote -v: lists the remote repositories connected to your local repository.
+
+- git fetch: fetches changes from a remote repository but doesn't merge them into your local branch.
+
+- git reset "file": unstages changes for the specified file.
+
+- git reset --hard "commit_hash": resets the current branch to a specific commit, discarding all changes after that commit.
+
+- git stash: temporarily saves your changes and reverts the working directory to the last commit.
+
+- git stash pop: restores the changes from the last stash.
+
+- git diff: shows the differences between the working directory and the last commit.
+
+- git remote add "remote_name" "remote_url": adds a remote repository to your Git configuration.
+
+- git remote remove "remote_name": removes a remote repository from your Git configuration.
+
+- git config --global user.name "Your Name": sets your global Git username.
+
+- git config --global user.email "youremail@example.com*: sets your global Git email address.
