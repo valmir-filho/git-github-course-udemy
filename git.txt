@@ -48,4 +48,4 @@ Here are some of the most commonly used Git commands:
 
 - git config --global user.name "Your Name": sets your global Git username.
 
-- git config --global user.email "youremail@example.com*: sets your global Git email address.
+- git config --global user.email "youremail@example.com: sets your global Git email address.
