@@ -1,4 +1,4 @@
-# Git and GitHub Repository from Udemy Course.
+# Git and GitHub Repository Course from Udemy.
 
 ## Content:
 
